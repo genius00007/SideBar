@@ -1,1 +1,1 @@
-# SIdeBar
+# SideBar
